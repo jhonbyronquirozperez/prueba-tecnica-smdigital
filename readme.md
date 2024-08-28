@@ -2,6 +2,8 @@
 
 ¡Gracias por la oportunidad! A continuación te explico cómo instalarlo el tema solicitado  desde GitHub.
 
+[VIDEO GUIA SOLUCION](https://youtu.be/tPbPftl4Gj8)
+
 ## Requisitos Previos
 
 Antes de comenzar, asegúrate de que tienes lo siguiente:
@@ -44,4 +46,4 @@ Si tienes alguna pregunta o necesitas ayuda, no dudes en abrir un [Issue en GitH
 
 ---
 
-¡Gracias por usar mi tema de WordPress! Espero que disfrutes de tu nueva apariencia.
+¡Gracias por usar mi tema de WordPress! Espero sea de su agrado.
