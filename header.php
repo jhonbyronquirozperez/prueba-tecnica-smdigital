@@ -11,7 +11,7 @@
 <body>
     
 
-<nav class="navbar navbar-expand-lg bg-gradient" data-bs-theme="dark" style=" min-height: 60px;background: linear-gradient(90deg, #004376, #00A9E0)!important;">
+<nav class="navbar navbar-expand-lg bg-gradient fw-normal" data-bs-theme="dark" style=" min-height: 60px;background: linear-gradient(90deg, #004376, #00A9E0)!important;">
     <img src="https://chocolates.com.co/wp-content/themes/nacional-de-chocolates/assets/images/Logo_CNCH.png" alt="">
     <div class="container d-flex flex-column">
         <div class="container-fluid d-flex align-items-center">
